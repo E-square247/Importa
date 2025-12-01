@@ -107,13 +107,13 @@ ALLOWED_ORIGINS=https://staff.yourdomain.com
 
 Save this file as `README.md` in the root of your repository.
 
-# Onboard Supermarket OS 🛒
+# Importa 🛒
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue) ![PWA](https://img.shields.io/badge/PWA-Ready-orange)
 
 **The offline-first, AI-powered operating system for modern retail staff.**
 
-> **Onboard Supermarket OS** is a Progressive Web App designed to replace clunky handheld inventory devices. It allows non-technical staff to capture products, scan barcodes, and manage stock using their personal devices or company tablets, even inside walk-in freezers without Wi-Fi.
+> **Importa** is a Progressive Web App designed to replace clunky handheld inventory devices. It allows non-technical staff to capture products, scan barcodes, and manage stock using their personal devices or company tablets, even inside walk-in freezers without Wi-Fi.
 
 ---
 
