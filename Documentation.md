@@ -1,7 +1,5 @@
 ### Part 1: Technical Documentation (`DOCS.md`)
 
-Save this file as `docs/TECHNICAL_MANUAL.md` or in your internal Wiki.
-
 # Onboard Supermarket PWA – Technical Reference Manual
 
 ## 1. System Overview
