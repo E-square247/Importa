@@ -1,0 +1,25 @@
+importa-pwa-suite/
+├── database/
+│   └── schema.sql
+├── server/ (Backend API)
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── middleware/
+│   │   └── index.ts
+│   ├── package.json
+│   └── tsconfig.json
+├── client/ (React PWA)
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── db/
+│   │   ├── hooks/
+│   │   ├── pages/
+│   │   ├── App.tsx
+│   │   └── main.tsx
+│   ├── vite.config.ts
+│   ├── package.json
+│   └── tsconfig.json
+├── docker-compose.yml
+└── README.md
