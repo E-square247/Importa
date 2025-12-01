@@ -1,9 +1,9 @@
 ### Part 1: Technical Documentation (`DOCS.md`)
 
-# Onboard Supermarket PWA – Technical Reference Manual
+# Importa PWA – Technical Reference Manual
 
 ## 1. System Overview
-**Onboard Supermarket OS** is a specialized Progressive Web App (PWA) designed for high-efficiency retail environments. It bridges the gap between physical inventory handling and digital ecommerce administration. The system is built on an **Offline-First** architecture, allowing staff to capture product data, scan barcodes, and manage stock in low-connectivity areas (e.g., freezers, warehouses) with automatic synchronization when connectivity is restored.
+**Importa** is a specialized Progressive Web App (PWA) designed for high-efficiency retail environments. It bridges the gap between physical inventory handling and digital ecommerce administration. The system is built on an **Offline-First** architecture, allowing staff to capture product data, scan barcodes, and manage stock in low-connectivity areas (e.g., freezers, warehouses) with automatic synchronization when connectivity is restored.
 
 ### 1.1 Core Objectives
 *   **Zero-Latency Data Entry:** Local database caching ensures instant UI feedback.
