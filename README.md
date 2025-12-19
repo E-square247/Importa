@@ -102,4 +102,4 @@ This application is designed for **internal enterprise use**.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-(See more in documentation)
+(See more in **documentation**  (https://github.com/E-square247/Importa/blob/main/DOCS.md#part-1-technical-documentation-docsmd))
